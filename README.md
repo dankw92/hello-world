@@ -17,3 +17,4 @@ A backend members only page will allow for each member to audit their own page a
 The website would also be able to have podcast hosting capabilities. This is more complex and am happy to brainstorm with everyone. Ideally, secure member login with the ability to upload podcast episodes with indivdual artwork, stats displayed for each episode, provide an RSS feed for episode and complete series, multi-plaform submission. 
 
 Looking forward to working on this with you all. 
+Cheers
